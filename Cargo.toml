@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "bit-field",
+  "bit-field_macro",
+]

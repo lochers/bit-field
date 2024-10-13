@@ -1,0 +1,11 @@
+[package]
+name = "bit-field"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bit-field_macro = { version = "0.1", path = "../bit-field_macro" }
+
+[dev-dependencies]
+bit-field_macro = { version = "0.1", path = "../bit-field_macro" }
+
